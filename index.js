@@ -1,6 +1,6 @@
 // console.log("Hi Man")
         document.getElementById('btn').addEventListener('click' , function(){
-        document.getElementById('BTS').innerHTML = 'Hello welcome to my Javascript website'
+        document.getElementById('BTS').innerHTML = 'Hello welcome to my website'
     })
  
 const obj =[{ name: "John", age: 30, city: "New York"}, 
